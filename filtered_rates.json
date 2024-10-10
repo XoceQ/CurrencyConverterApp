@@ -1,0 +1,9 @@
+{
+  "rates": {
+    "AUD": 1.4876,
+    "UYU": 41.2332,
+    "COP": 4231.4304
+  },
+  "result": "success",
+  "base": "USD"
+}
