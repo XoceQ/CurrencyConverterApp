@@ -13,8 +13,8 @@ El proyecto **Currency Converter** es una aplicación que permite a los usuarios
 - Maneja errores para asegurar que todas las monedas ingresadas son válidas.
 
 ## Tecnologías Utilizadas
-
-- Java 
+- Java
 - Maven
 - Gson (para manejar JSON)
+- HttpResponse, HttpClient y Request (para realizar solicitudes HTTP)
 - API de ExchangeRate
